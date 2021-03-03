@@ -25,4 +25,6 @@ In order to implement the code:
 
 ## Outputs
 
-The project does not have any visual outputs. The plots are attached in the report.
+![visual odometry gif](visual_odometry.gif)
+
+
