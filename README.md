@@ -1,4 +1,4 @@
-# Visual Odometry for Autonomous Vehicles
+# Visual Odometry for Autonomous Systems
 
 ## Introduction
 
